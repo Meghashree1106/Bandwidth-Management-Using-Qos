@@ -1,3 +1,11 @@
+# Bandwidth Management Using Qos  
+*Student Name:* Megha Shree V  
+*Register No.:* 23BCAR0326 
+*Semester:* IV – BCA (IoT Specialization)  
+*Course:* 23BCA4VC02 – Network Administration  
+*College:* Jain Deemed-to-be University  
+*Faculty In-Charge:* Mr. Sahabzada Betab Badar  
+
 # Network Topology Project
 
 ## Project Overview
@@ -40,3 +48,6 @@ The network is structured as follows:
 
 * Implement DHCP for dynamic IP assignment.
 * Integrate additional services like DNS and HTTP on the server.
+
+  ![Screenshot 2025-05-08 191601](https://github.com/user-attachments/assets/6edc3d57-41c5-44d1-8fe0-80908c654ea6)
+
